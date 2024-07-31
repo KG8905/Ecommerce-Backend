@@ -1,0 +1,14 @@
+[
+    {
+    "product_name": "Laptop",
+    "price": 1000.00,
+    "stock": 10,
+    "category_id": 1
+    },
+    {
+    "product_name": "T-Shirt",
+    "price": 20.00,
+    "stock": 100,
+    "category_id": 2
+    }
+]
